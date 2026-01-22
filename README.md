@@ -1,19 +1,24 @@
 # Analiss-Machine-Learning-Healthcare-Stroke-Data-
 Penelitian ini dilakukan untuk membandingkan kinerja tiga algoritma machine learning yaitu K- Nearest Neighbor (K-NN) dan Decision Tree dalam menganalis data Stroke. 
-# Project Website Sistem Informasi
+# Machine-Learning-Healthcare-Stroke-Data-
 
-## Deskripsi
-Project ini merupakan tugas Project Based Learning berupa pembuatan website sistem informasi.
+# Yang dilakukan pada Analisi Ini
+2.	Lakukan tahapan preprocessing data, meliputi:
+a)	Data cleaning
+b)	Encoding data kategorikal
+c)	Normalisasi / standarisasi
+3.	Implementasikan minimal 3 algoritma machine learning:
+a)	K-Nearest Neighbor (KNN)
+b)	Decision Tree
+c)	Random Forest
+d)	Support Vector Machine (SVM)
+4.	Lakukan Tuning Parameter pada setiap algoritma 
+5.	Evaluasi performa model menggunakan metrik yang sesuai: Klasifikasi → Accuracy, Precision, Recall, F1-score
+6.	Bandingkan hasil eksperimen dan tentukan model terbaik, disertai, Analisis performa
 
-## Fitur
-- Informasi layanan
-- Tampilan sederhana
-- Mudah diakses
-
+SEMUA JAWABAN ADA DI CODE DAN FILE WORD
 ## Tools
-- HTML
-- CSS
-- JavaScript
-
+--pythone
+--Google Colab
 ## Author
 Ni Kadek Anita Mahendra Putri
